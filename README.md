@@ -102,6 +102,5 @@ print("Passionate about backend development and machine learning applications.")
 
 ---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Anuraggg-19&color=70a5fd&style=for-the-badge&label=Profile+Views)](https://github.com/Anuraggg-19)
 
 > *"Building stuff that matters, one commit at a time."* 🚀
