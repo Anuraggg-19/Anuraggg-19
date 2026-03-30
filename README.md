@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anurag Bonde</h1>
+<h1 align="center">Anurag Bonde</h1>
 <h3 align="center">Full Stack Developer | DSA Enthusiast</h3>
 
 ---
