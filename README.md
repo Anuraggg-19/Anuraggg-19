@@ -9,10 +9,10 @@
 ```
 
 ```
-Navigate using the commands below (or just click the sections!):
+Navigate using the commands below:
 
-whoami      → About Me
-contact     → How to Reach Me
+whoami   → About Me
+contact  → How to Reach Me
 ```
 
 ---
@@ -40,7 +40,7 @@ contact     → How to Reach Me
 
 ---
 
-## 💻 Interactive Terminal Commands
+## 💻 Terminal Commands
 
 ---
 
@@ -73,7 +73,7 @@ print("Passionate about backend development and machine learning applications.")
 {
   "contact_info": {
     "linkedin": "https://www.linkedin.com/in/anurag-bonde-38a86428b/",
-    "github":   "github.com/Anuraggg-19",
+    "github":   "https://github.com/Anuraggg-19",
     "location": "Mumbai, India"
   },
   "availability": {
@@ -96,22 +96,12 @@ print("Passionate about backend development and machine learning applications.")
 
 ---
 
-## 📊 GitHub Statistics & Analytics
+## 📊 Top Languages
 
-| Stats | Languages |
-|-------|-----------|
-| ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuraggg-19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=70a5fd&text_color=ffffff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuraggg-19&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff) |
-
-
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anuraggg-19&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&area_color=70a5fd)](https://github.com/Anuraggg-19)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuraggg-19&layout=donut&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff)
 
 ---
 
-
-
-)
-
----
+[![Profile Views](https://komarev.com/ghpvc/?username=Anuraggg-19&color=70a5fd&style=for-the-badge&label=Profile+Views)](https://github.com/Anuraggg-19)
 
 > *"Building stuff that matters, one commit at a time."* 🚀
