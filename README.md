@@ -1,11 +1,12 @@
 <h1 align="center">Anurag Bonde</h1>
 <h3 align="center">Full Stack Developer | DSA Enthusiast</h3>
 
----
-##Software Developer and Competitive Programmer with strong problem-solving skills  
-2★ CodeChef | 330+ LeetCode problems solved | CGPA: 8.70
 
 Based in Mumbai, India | Open to internships and full-time roles  
+Interested in backend development,and machine learning applications
+> Problem Solver | CP Enthusiast | Softwares | 8.70 CGPA
+> 2-Star CC | 330+ LC
+> Based in Mumbai, India | Open to internships and full-time roles  
 Interested in backend development,and machine learning applications
 
 ---
