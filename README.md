@@ -2,12 +2,11 @@
 <h3 align="center">Full Stack Developer | DSA Enthusiast</h3>
 
 ---
+##Software Developer and Competitive Programmer with strong problem-solving skills  
+2★ CodeChef | 330+ LeetCode problems solved | CGPA: 8.70
 
-## 🧑‍💻 About Me
-- 🔭 Working on: MERN Projects  
-- 🌱 Learning: Backend & System Design  
-- 💬 Ask me about: DSA, ML, Blockchain  
-- ⚡ Fun fact: Love competitive coding  
+Based in Mumbai, India | Open to internships and full-time roles  
+Interested in backend development,and machine learning applications
 
 ---
 
